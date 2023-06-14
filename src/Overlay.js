@@ -62,6 +62,20 @@ export default function Overlay() {
         >
           BROWSE MY RECENT WORK
         </motion.button>
+        <motion.button
+          style={{ marginTop: "1rem" }}
+          animate={{ translateX: "0%", opacity: 1 }}
+          initial={{ translateX: "-120%", opacity: 0 }}
+          transition={{
+            delay: 2.6
+          }}
+          className="ctaButton"
+          onClick={() => {
+            sendMail();
+          }}
+        >
+          CONTACT ME
+        </motion.button>
         <footer className="footer">
           <h3>Carlos Veryan</h3>
           <p>Front-end Developer</p>
