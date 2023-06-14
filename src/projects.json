@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Apeiron AI",
+      "description": "ApeironAI",
+      "image": "/apeironai.png",
+      "link": "https://www.apeiron-ai.com/"
+    },
+    {
+      "name": "SOLFund",
+      "description": "SOLFund",
+      "image": "/solfund.png",
+      "link": "https://sol-funding.vercel.app/"
+    },
+    {
+      "name": "InLook",
+      "description": "This is the description for Project 1.",
+      "image": "/inlooklogin.png",
+      "link": "https://inlook.vercel.app/"
+    },
+    {
+      "name": "Apeiron WebDev",
+      "description": "Apeiron WebDev",
+      "image": "/apeironwebdev.png",
+      "link": "https://apeiron-webdev.web.app/"
+    },
+    {
+      "name": "Car Selling",
+      "description": "Car Selling",
+      "image": "/car.png",
+      "link": "https://car-selling-website-tau.vercel.app/"
+    },
+    {
+      "name": "Kueski Dashboard",
+      "description": "Kueski Dashboard",
+      "image": "/kueski.png",
+      "link": "https://kueski-dashboard.vercel.app/login"
+    }
+  ]
+}
